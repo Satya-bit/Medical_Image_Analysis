@@ -20,6 +20,7 @@ The Medical Imaging System is an AI-powered Streamlit web application designed t
 
 🗃️Archive & Search:Stores and retrieves historical analyses
 
+
 **⚙️ Technology Stack**
 
 🖥️Frontend:Streamlit for intuitive web interface
@@ -37,6 +38,7 @@ The Medical Imaging System is an AI-powered Streamlit web application designed t
 💾Storage:JSON-based file storage system
 
 🔍Knowledge Base:PubMed API (via Biopython)
+
 
 
 **User Journey**
@@ -66,6 +68,7 @@ The Medical Imaging System is an AI-powered Streamlit web application designed t
 📚 Knowledge Access: Integration with medical literature databases.
 
 📝 Documentation: Structured reports for medical records.
+
 
 **Implementation Details**
 
@@ -104,6 +107,8 @@ Split view with image preview and results.
 Expandable sections for findings and literature.
 
 XAI visualization with multiple viewing options.
+
+
 
 **=>System Architecture and Data Flow**
 
