@@ -1,0 +1,30 @@
+# Backend requirements
+fastapi
+uvicorn
+pydantic
+pillow
+python-multipart
+openai
+requests
+opencv-python
+pydicom
+nibabel
+Bio
+reportlab
+scikit-learn
+dotenv
+httpx==0.27.2 
+# Frontend requirements
+streamlit
+
+
+
+# langchain==0.3.13
+# langchain-core==0.3.28
+# langchain-community==0.3.13
+# langchain-openai==0.2.14
+# crewai==0.30.11
+# streamlit==1.32.2
+# openai==1.14.3
+# pydantic==2.7.0
+# faiss-cpu==1.8.0
