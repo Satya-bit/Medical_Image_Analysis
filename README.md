@@ -4,6 +4,9 @@
 
 The Medical Imaging System is an AI-powered Streamlit web application designed to assist healthcare professionals with medical image analysis. This comprehensive platform analyzes diverse medical images, provides AI-generated diagnoses with explanatory visualizations, connects to medical knowledge bases, and enables multi-doctor collaboration.
 
+**Demo Link**
+https://drive.google.com/file/d/1pRvlsBIKweLYzcU8TKunQLnUwcfXSg9L/view?usp=sharing
+
 **🧩 Main Components**
 
 📸Image Processing:Handles multiple formats (DICOM, NIfTI, JPG/PNG)
